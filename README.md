@@ -1,0 +1,2 @@
+# Dataset_foundation_pose
+这是一个我自己制作的foundation_pose算法的数据集，包含我自己的物体，木块、杯子等，后续会逐步更新更多物体和图片资源
